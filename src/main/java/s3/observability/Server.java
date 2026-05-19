@@ -9,6 +9,7 @@ public class Server {
     public Server() {}
 
     static void main(String[] args) {
+        IO.println("Starting s3-observability server...");
         SpringApplication.run(Server.class, args);
     }
 }
