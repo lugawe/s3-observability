@@ -19,7 +19,7 @@
         <spring-boot.version>4.0.6</spring-boot.version>
         <spring-cloud-aws.version>4.0.2</spring-cloud-aws.version>
         <!-- code style -->
-        <spotless-maven-plugin.version>3.5.1</spotless-maven-plugin.version>
+        <spotless-maven-plugin.version>3.7.0</spotless-maven-plugin.version>
         <!-- maven plugins -->
         <project.build.sourceEncoding>${project.encoding}</project.build.sourceEncoding>
         <maven.compiler.source>${java.version}</maven.compiler.source>
